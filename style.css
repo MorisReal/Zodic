@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(9, 237, 253);
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.container{
+    background-color: rgb(255, 230, 0);
+    font-size: 24px;
+    font-family: sans-serif;
+    padding: 30px;
+    box-shadow: -3px -3px 3px rgb(247, 237, 237),3px 3px 3px rgb(117, 117, 117);
+}
+
+input{
+    width: 40px;
+    height: 40px;
+    font-size: 24px;
+}
+
+button{
+    display: block;
+    width: 90%;
+    height: 40px;
+    margin: 20px;
+    font-size: 24px;
+}
+
+.b1{
+    background-color: rgb(64, 228, 151);
+}
+
+.b2{
+    background-color: rgb(64, 228, 151);
+}
